@@ -16,6 +16,8 @@ FraudShield AI is an AI-powered web application that helps users detect online s
 2. FraudShield AI analyzes the input.
 3. The AI determines whether it is safe or suspicious.
 4. The app provides a detailed reason behind its decision, helping users understand the potential risks.
+LIVE DEMO LINK:-
+https://fraudshieldai-rouge.vercel.app
 
 ## 🛠️ Technologies Used
 
